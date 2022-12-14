@@ -1,8 +1,8 @@
-# Part-1 of Rust-Learning series
+# Part-2 of Rust-Learning series
 
-### Temperature Converter
+### Fibonacci Numbers
 
-Convert temperature from Fahrenheit to Celcius and vice versa
+Print fibonacci numbers
 
 #### To run the app
 ```bash
